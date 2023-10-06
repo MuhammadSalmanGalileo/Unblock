@@ -1,0 +1,25 @@
+{
+    "name": "Unblock",
+    "version": "0.0.1",
+    "keywords": "Helper, Unblock",
+    "description": "C++ helper library to transform blocking function to polling style",
+    "authors": {
+        "name": "Muhammad Salman Galileo",
+        "email": "salman.galileo@gmail.com",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MuhammadSalmanGalileo/Unblock.git"
+    },
+    "export": {
+        "exclude": [
+            "test/*"
+        ]
+    },
+    "license": "MIT",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}

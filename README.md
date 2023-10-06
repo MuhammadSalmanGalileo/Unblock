@@ -1,2 +1,2 @@
-# unblock
-C++ helper library from blocking function to polling style
+# Unblock
+C++ helper library to transform blocking function to polling style
